@@ -1,0 +1,8 @@
+# Ignore the target folder
+target/
+
+# Ignore the Dataset1 folder
+Dataset1/
+
+# Ignore the dataset-test folder
+dataset-test/

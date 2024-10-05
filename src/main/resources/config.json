@@ -1,0 +1,4 @@
+{
+  "num_worker_threads": 4,
+  "rest_endpoint_port": 8080
+}
